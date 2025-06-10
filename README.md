@@ -40,7 +40,7 @@ pip install virtualenv
 
 ```bash
 git clone https://github.com/TithiB-del/BtechProject.git
-cd YOLOv8-Fire-Detection-Webcam-App-with-Flask
+cd BtechProject
 ```
 
 2 - Create and activate a virtual environment:
