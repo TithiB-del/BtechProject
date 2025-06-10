@@ -1,16 +1,21 @@
-# Real-Time Fire Detection Flask App Using YOLOv8
+# Real-Time Plastic Detection Flask App Using YOLOv8
 
-Welcome to the Real-Time Fire Detection Flask App! This application harnesses the power of YOLO (You Only Look Once),to provide instant fire detection directly from your webcam feed. Built on the Flask web framework for Python, it offers a seamless and user-friendly experience.
+Welcome to the Real-Time Plastic Detection Flask App! <br>
+This application harnesses the power of YOLO (You Only Look Once),to provide instant fire detection directly from your webcam feed. Built on the Flask web framework for Python, it offers a seamless and user-friendly experience.
 ## Model Metrics
-![metrics](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/9f3a6c02-a67c-48fb-af53-daed54438cb0)
+![metrics](https://github.com/user-attachments/assets/326d446b-4a60-40d2-85ca-6ed32fc9a1b7
+)
 These metrics collectively showcase the model's reliability and efficiency in real-world fire detection scenarios.
 ## Model Architecture
-![architecture](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/96c83027-76e6-4813-a088-c70609e05609)
+![architecture](<img width="911" alt="image" src="https://github.com/user-attachments/assets/f05f7323-5740-4963-8f2e-3d11a1d8dea8" />
+)
 ## Implementation Details
 ### Website 
-![implementation](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/5b47fc32-9839-4c4f-929a-abdc089a4684)
+![implementation](<img width="535" alt="image" src="https://github.com/user-attachments/assets/94b14d34-b9c3-4d4e-b62b-c8442e832b76" />
+)
 ### WebCam
-![implimentation](https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask/assets/95720632/9ee70aad-bd3f-4ffd-aa35-b8151d811659)
+![implimentation](<img width="374" alt="image" src="https://github.com/user-attachments/assets/0bb327ab-8afd-427d-80ca-ad55af155f08" />
+)
 
 
 ## Getting Started
