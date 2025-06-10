@@ -1,7 +1,8 @@
 # Real-Time Plastic Detection Flask App Using YOLOv8
 
 Welcome to the Real-Time Plastic Detection Flask App! <br>
-This application harnesses the power of YOLO (You Only Look Once),to provide instant fire detection directly from your webcam feed. Built on the Flask web framework for Python, it offers a seamless and user-friendly experience.
+This application harnesses the power of YOLO (You Only Look Once),to provide instant plastic bottle detection directly from your webcam feed. <br>
+Built on the Flask web framework for Python, it offers a seamless and user-friendly experience.
 ## Model Metrics
 ![metrics](https://github.com/user-attachments/assets/326d446b-4a60-40d2-85ca-6ed32fc9a1b7
 )
@@ -56,6 +57,12 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+4 - If permissions are denied, run as administrator, along with this to bypass restrictions regarding running scripts
+```bash
+Set-ExecutionPolicy -ExecutionPolicy
+RemoteSigned -Scope CurrentUser
+```
+
 ### Usage
 1 - Run the Flask app:
 ```bash
