@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/11d4d003-0c1d-4594-9523-de514cf4dc01
 # Real-Time Plastic Detection Flask App Using YOLOv8
 
 Welcome to the Real-Time Plastic Detection Flask App! <br>
@@ -17,6 +19,9 @@ These metrics collectively showcase the model's reliability and efficiency in re
 ### WebCam
 ![implimentation](https://github.com/user-attachments/assets/0bb327ab-8afd-427d-80ca-ad55af155f08
 )
+## Demo Video
+
+(https://github.com/user-attachments/assets/6cd5f2db-884a-4cdc-8955-4959bd1158b6)
 
 
 ## Getting Started
