@@ -7,14 +7,14 @@ This application harnesses the power of YOLO (You Only Look Once),to provide ins
 )
 These metrics collectively showcase the model's reliability and efficiency in real-world fire detection scenarios.
 ## Model Architecture
-![architecture](<img width="911" alt="image" src="https://github.com/user-attachments/assets/f05f7323-5740-4963-8f2e-3d11a1d8dea8" />
+![architecture](https://github.com/user-attachments/assets/f05f7323-5740-4963-8f2e-3d11a1d8dea8
 )
 ## Implementation Details
 ### Website 
-![implementation](<img width="535" alt="image" src="https://github.com/user-attachments/assets/94b14d34-b9c3-4d4e-b62b-c8442e832b76" />
+![implementation](https://github.com/user-attachments/assets/94b14d34-b9c3-4d4e-b62b-c8442e832b76
 )
 ### WebCam
-![implimentation](<img width="374" alt="image" src="https://github.com/user-attachments/assets/0bb327ab-8afd-427d-80ca-ad55af155f08" />
+![implimentation](https://github.com/user-attachments/assets/0bb327ab-8afd-427d-80ca-ad55af155f08
 )
 
 
@@ -33,7 +33,7 @@ pip install virtualenv
 1 - Clone the repository:
 
 ```bash
-git clone https://github.com/TheKingOo/YOLOv8-Fire-Detection-Webcam-App-with-Flask.git
+git clone https://github.com/TithiB-del/BtechProject.git
 cd YOLOv8-Fire-Detection-Webcam-App-with-Flask
 ```
 
